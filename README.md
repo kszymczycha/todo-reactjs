@@ -2,10 +2,13 @@
 The repository demonstrates the TO-DO application and its implementation. Feature application:
 * Adding tasks
 * Delete tasks
+
+![todo_reactjs](https://user-images.githubusercontent.com/30631373/28835057-756068be-76e4-11e7-83b0-e7555a9c00f1.png)
+
 ## Getting started
 ### Clone the repo & install:
 ```
-git clone git@github.com:kszymczycha/todo_reactjs.git
+git clone https://github.com/kszymczycha/todo_reactjs.git
 cd todo_reactjs
 npm install
 ``` 
