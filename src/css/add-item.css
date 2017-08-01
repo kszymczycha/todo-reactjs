@@ -1,0 +1,6 @@
+#add-item input[type="text"] {
+    width: 99%;
+    height: 30px;
+    font-size: 20px;
+    border: solid 1px #eee;
+}

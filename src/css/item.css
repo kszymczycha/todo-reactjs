@@ -1,0 +1,10 @@
+.remove-btn {
+    float: right;
+    color: #eee;
+    line-height: 15px;
+}
+
+.remove-btn:hover {
+    cursor:pointer;
+    color: #000;  
+}

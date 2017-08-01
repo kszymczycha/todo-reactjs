@@ -1,0 +1,25 @@
+body {
+    font-family: Tahoma;
+}
+#list-items {
+    border-top: 2px solid #009688;
+    width: 50%;
+    margin: 0 auto;
+    height: auto;
+    box-shadow: 0 0 5px #eee;
+    padding: 20px;
+}
+
+#list-items ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+#list-items ul li {
+    border-top: 1px solid #eee;
+    padding: 15px;
+}
+
+#list-items ul li span {
+    display: inline;
+}
