@@ -14,7 +14,7 @@ npm install
 ``` 
 ### Run application:
 ```
-npm start
+npm run dev
 ```
 Once done, the application is ready for use: [localhost: 8080](http://localhost:8080/)
 ## Installed dependencies
@@ -79,7 +79,7 @@ module.exports = {
 };
 ```
 ### License
-GNU/GPL
+MIT
 ### Source:
 <br />
 [1] https://facebook.github.io/react/docs/installation.html
