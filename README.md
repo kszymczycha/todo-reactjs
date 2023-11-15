@@ -1,4 +1,4 @@
-# Simple Todo ReactJs Application
+# TODO ReactJs Application
 The repository demonstrates the TO-DO application and its implementation. Feature application:
 * Adding tasks
 * Delete tasks
